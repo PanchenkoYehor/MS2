@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  8 MAY 2021 23:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  8 MAY 2021 23:26
 entering extended mode
 **./ms2.tex
 (ms2.tex
@@ -1475,7 +1475,7 @@ File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 
 {C:/Users/panen/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-178.
+180.
 
 (C:\Users\panen\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
@@ -1516,37 +1516,37 @@ Overfull \hbox (4.44658pt too wide) in paragraph at lines 15--15
 <Plot.png, id=57, 683.55376pt x 404.26031pt>
 File: Plot.png Graphic file (type png)
 <use Plot.png>
-Package pdftex.def Info: Plot.png  used on input line 207.
+Package pdftex.def Info: Plot.png  used on input line 209.
 (pdftex.def)             Requested size: 492.06537pt x 291.01785pt.
 <Inv_Plot.png, id=58, 683.55376pt x 404.26031pt>
 File: Inv_Plot.png Graphic file (type png)
 <use Inv_Plot.png>
-Package pdftex.def Info: Inv_Plot.png  used on input line 215.
+Package pdftex.def Info: Inv_Plot.png  used on input line 217.
 (pdftex.def)             Requested size: 492.06537pt x 291.01785pt.
  [3 <./Plot.png>] [4 <./Inv_Plot.png>]
 <Plot_Line.png, id=78, 683.55376pt x 404.26031pt>
 File: Plot_Line.png Graphic file (type png)
 <use Plot_Line.png>
-Package pdftex.def Info: Plot_Line.png  used on input line 283.
+Package pdftex.def Info: Plot_Line.png  used on input line 285.
 (pdftex.def)             Requested size: 492.06537pt x 291.01785pt.
  [5]
-Overfull \hbox (6.73146pt too wide) in paragraph at lines 292--293
+Overfull \hbox (6.73146pt too wide) in paragraph at lines 294--295
 []\T2A/cmr/m/n/14.4 ƒл€ пе-ре-вiр-ки аде-ква-тно-стi по-бу-до-ва-но® мо-де-лi с
 ко-ри-ста-є-мо-с€ $\OML/cmm/m/it/14.4 F$\T2A/cmr/m/n/14.4 -критерiєм
  []
 
 
-Overfull \hbox (3.02007pt too wide) detected at line 296
+Overfull \hbox (3.02007pt too wide) detected at line 298
 []
  []
 
 [6 <./Plot_Line.png>] [7] Excluding 'comment' comment. [8]
-Overfull \hbox (23.6289pt too wide) detected at line 455
+Overfull \hbox (23.6289pt too wide) detected at line 457
 []
  []
 
 
-Overfull \hbox (11.84235pt too wide) detected at line 473
+Overfull \hbox (11.84235pt too wide) detected at line 475
 []
  []
 
@@ -1561,7 +1561,7 @@ Package rerunfilecheck Info: File `ms2.out' has not changed.
  ) 
 Here is how much of TeX's memory you used:
  28439 strings out of 480236
- 520123 string characters out of 2880557
+ 520131 string characters out of 2880557
  1200023 words of memory out of 3000000
  44402 multiletter control sequences out of 15000+200000
  548254 words of font info for 60 fonts, out of 3000000 for 9000
@@ -1587,7 +1587,7 @@ ts/cm/cmr7.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmss10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ms2.pdf (11 pages, 224848 bytes).
+Output written on ms2.pdf (11 pages, 224851 bytes).
 PDF statistics:
  437 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)
