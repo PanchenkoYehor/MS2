@@ -10,8 +10,11 @@
 \contentsline {section}{\numberline {2.\relax }Задача 2}{11}{section.2}%
 \contentsline {subsection}{\numberline {2.1.\relax }Постановка задачі}{11}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2.\relax }Пошук оцінок параметрів двофакторної регресійної моделі за методом найменших квадратів}{11}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3.\relax }Перевірка адекватності побудованої моделі}{11}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4.\relax }Перевірка гіпотези про значущість найменшого значення параметра побудованої моделі}{11}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5.\relax }Побудова прогнозованого довірчого інтервала для середнього значення відклику та самого значення відклику}{11}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6.\relax }Висновок}{11}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.3.\relax }Перевірка адекватності побудованої моделі}{12}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4.\relax }Перевірка гіпотези про значущість найменшого значення параметра побудованої моделі}{13}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5.\relax }Побудова нової однофакторної моделі}{14}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6.\relax }Перевірка адекватності нової побудованої однофакторної моделі}{16}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7.\relax }Перевірка гіпотези про значущість найменшого значення параметра нової побудованої однофакторної моделі}{17}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8.\relax }Побудова прогнозованого довірчого інтервала для середнього значення відклику та самого значення відклику нової однофакторної моделі}{18}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9.\relax }Висновок}{19}{subsection.2.9}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

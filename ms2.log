@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  8 MAY 2021 23:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  9 MAY 2021 19:41
 entering extended mode
 **./ms2.tex
 (ms2.tex
@@ -1503,7 +1503,7 @@ Overfull \hbox (4.44658pt too wide) in paragraph at lines 8--8
  []
 
 
-Overfull \hbox (4.44658pt too wide) in paragraph at lines 15--15
+Overfull \hbox (4.44658pt too wide) in paragraph at lines 18--18
  [][] [][]\T2A/cmr/m/n/14.4 Побудова про-гно-зо-ва-но-го до-вiр-чо-го iн-тер-ва
 -ла для се-ре-дньо-го зна- 
  []
@@ -1513,18 +1513,18 @@ Overfull \hbox (4.44658pt too wide) in paragraph at lines 15--15
 \openout6 = `ms2.toc'.
 
  [2]
-<Plot.png, id=57, 683.55376pt x 404.26031pt>
+<Plot.png, id=65, 683.55376pt x 404.26031pt>
 File: Plot.png Graphic file (type png)
 <use Plot.png>
 Package pdftex.def Info: Plot.png  used on input line 209.
 (pdftex.def)             Requested size: 492.06537pt x 291.01785pt.
-<Inv_Plot.png, id=58, 683.55376pt x 404.26031pt>
+<Inv_Plot.png, id=66, 683.55376pt x 404.26031pt>
 File: Inv_Plot.png Graphic file (type png)
 <use Inv_Plot.png>
 Package pdftex.def Info: Inv_Plot.png  used on input line 217.
 (pdftex.def)             Requested size: 492.06537pt x 291.01785pt.
  [3 <./Plot.png>] [4 <./Inv_Plot.png>]
-<Plot_Line.png, id=78, 683.55376pt x 404.26031pt>
+<Plot_Line.png, id=86, 683.55376pt x 404.26031pt>
 File: Plot_Line.png Graphic file (type png)
 <use Plot_Line.png>
 Package pdftex.def Info: Plot_Line.png  used on input line 285.
@@ -1550,20 +1550,195 @@ Overfull \hbox (11.84235pt too wide) detected at line 475
 []
  []
 
-[9] [10] (ms2.bbl
+[9] [10]
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 55\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 44\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 1$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 54\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 53\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 50\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 22\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 18\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 13\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 25\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 8$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 14\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 19\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 14\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 13\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 3$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 16\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 1$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 55\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 44\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 1$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 54\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 53\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 50\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 6$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 22\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 18\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 13\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 25\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 8$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 14\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 19\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 5$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 14\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 2$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 13\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 3$| 
+ []
+
+
+Overfull \hbox (6.73724pt too wide) in paragraph at lines 496--496
+[]|$\OT1/cmr/m/n/14.4 16\OML/cmm/m/it/14.4 :\OT1/cmr/m/n/14.4 1$| 
+ []
+
+<Plot3d.png, id=119, 1541.76pt x 804.00375pt>
+File: Plot3d.png Graphic file (type png)
+<use Plot3d.png>
+Package pdftex.def Info: Plot3d.png  used on input line 547.
+(pdftex.def)             Requested size: 492.06537pt x 256.59944pt.
+[11]
+Overfull \hbox (6.73146pt too wide) in paragraph at lines 556--557
+[]\T2A/cmr/m/n/14.4 Для пе-ре-вiр-ки аде-ква-тно-стi по-бу-до-ва-ноЁ мо-де-лi с
+ко-ри-ста-№-мо-ся $\OML/cmm/m/it/14.4 F$\T2A/cmr/m/n/14.4 -критерi№м
+ []
+
+[12 <./Plot3d.png (PNG copy)>] [13]
+<Plot_x1_y.png, id=134, 718.18312pt x 404.26031pt>
+File: Plot_x1_y.png Graphic file (type png)
+<use Plot_x1_y.png>
+Package pdftex.def Info: Plot_x1_y.png  used on input line 633.
+(pdftex.def)             Requested size: 492.06537pt x 276.9845pt.
+ [14]
+<Plot_x1Log_y.png, id=139, 718.18312pt x 404.26031pt>
+File: Plot_x1Log_y.png Graphic file (type png)
+<use Plot_x1Log_y.png>
+Package pdftex.def Info: Plot_x1Log_y.png  used on input line 641.
+(pdftex.def)             Requested size: 492.06537pt x 276.9845pt.
+ [15 <./Plot_x1_y.png> <./Plot_x1Log_y.png>]
+<Plot_x1Log_y_with_line.png, id=148, 718.18312pt x 404.26031pt>
+File: Plot_x1Log_y_with_line.png Graphic file (type png)
+<use Plot_x1Log_y_with_line.png>
+Package pdftex.def Info: Plot_x1Log_y_with_line.png  used on input line 677.
+(pdftex.def)             Requested size: 492.06537pt x 276.9845pt.
+
+Overfull \hbox (6.73146pt too wide) in paragraph at lines 686--687
+[]\T2A/cmr/m/n/14.4 Для пе-ре-вiр-ки аде-ква-тно-стi по-бу-до-ва-ноЁ мо-де-лi с
+ко-ри-ста-№-мо-ся $\OML/cmm/m/it/14.4 F$\T2A/cmr/m/n/14.4 -критерi№м
+ []
+
+[16 <./Plot_x1Log_y_with_line.png>] [17] [18] [19] (ms2.bbl
 
 LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
                before end of `thebibliography' environment on input line 3.
 
-) [11] (ms2.aux)
+) [20] (ms2.aux)
 Package rerunfilecheck Info: File `ms2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28439 strings out of 480236
- 520131 string characters out of 2880557
- 1200023 words of memory out of 3000000
- 44402 multiletter control sequences out of 15000+200000
+ 28486 strings out of 480236
+ 520800 string characters out of 2880557
+ 1210023 words of memory out of 3000000
+ 44429 multiletter control sequences out of 15000+200000
  548254 words of font info for 60 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,18n,99p,10628b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1587,9 +1762,9 @@ ts/cm/cmr7.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public
 /amsfonts/cm/cmss10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/typ
 e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/
 fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ms2.pdf (11 pages, 224851 bytes).
+Output written on ms2.pdf (20 pages, 329446 bytes).
 PDF statistics:
- 437 PDF objects out of 1000 (max. 8388607)
- 32 named destinations out of 1000 (max. 500000)
- 148 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 511 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 192 words of extra memory for PDF output out of 10000 (max. 10000000)
 
