@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  15 MAY 2021 18:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.23)  15 MAY 2021 19:01
 entering extended mode
 **./ms2.tex
 (ms2.tex
@@ -1723,46 +1723,42 @@ Overfull \hbox (6.73146pt too wide) in paragraph at lines 678--679
 ко-ри-ста-№-мо-ся $\OML/cmm/m/it/14.4 F$\T2A/cmr/m/n/14.4 -критерi№м
  []
 
-[15 <./Plot_x1Log_y_with_line.png>] [16] [17] [18] (ms2.bbl
-
-LaTeX Warning: Empty `thebibliography' environment or \BreakBibliography
-               before end of `thebibliography' environment on input line 3.
-
-) [19] (ms2.aux)
+[15 <./Plot_x1Log_y_with_line.png>] [16] [17] [18] (ms2.bbl) [19] (ms2.aux)
 Package rerunfilecheck Info: File `ms2.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 28485 strings out of 480236
- 520793 string characters out of 2880557
+ 28493 strings out of 480236
+ 520895 string characters out of 2880557
  1209023 words of memory out of 3000000
- 44429 multiletter control sequences out of 15000+200000
- 548254 words of font info for 60 fonts, out of 3000000 for 9000
+ 44435 multiletter control sequences out of 15000+200000
+ 549128 words of font info for 61 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  94i,18n,99p,10628b,449s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
-1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\
-lasx1728.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
-600\lasx1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
-/dpi600\lasx2074.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\latt1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\larm2074.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Users/panen/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/panen/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/panen/AppData/L
-ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/panen/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/User
-s/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-r12.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
-ts/cm/cmr7.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmss10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/amsfonts/cm/cmsy10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on ms2.pdf (19 pages, 327830 bytes).
+ <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati14
+40.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
+tcrm1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi
+600\lasx1728.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
+/dpi600\lasx1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
+-t2a/dpi600\lasx2074.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\latt1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\larm2074.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\larm1440.pk> <C:\Users\panen\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk><C:/Users/panen/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/panen/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/panen/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/pa
+nen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/
+Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.
+pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmr12.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr7.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts/type1/pu
+blic/amsfonts/cm/cmss10.pfb><C:/Users/panen/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/panen/AppData/Local/Programs/MiK
+TeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on ms2.pdf (19 pages, 340714 bytes).
 PDF statistics:
- 505 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
+ 541 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
  192 words of extra memory for PDF output out of 10000 (max. 10000000)
 
