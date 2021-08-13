@@ -1,4 +1,4 @@
-# MS2
+# Regression models
 
 If you want to see the result - open file ms2.pdf. Other files are auxiliary and provided by Latex.
 
